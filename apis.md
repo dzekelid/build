@@ -4,7 +4,7 @@ description: This is a repository of build APIs, self-contained as a Github repo
   with HTML and YAML representations of the APIs and their surrounding operations.
 image: http://template.streamdata.gallery/assets/build.png
 created: "2018-02-24"
-modified: "2018-06-17"
+modified: "2018-06-25"
 url: http://build.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
@@ -28,8 +28,6 @@ include:
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/build/master/_listings/appveyor-ci/apis.yaml
 - name: IBM Cloud
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/build/master/_listings/ibm-cloud/apis.yaml
-- name: TidyHQ
-  url: https://raw.githubusercontent.com/streamdata-gallery-topics/build/master/_listings/tidyhq/apis.yaml
 maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
